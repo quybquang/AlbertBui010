@@ -36,7 +36,7 @@
 
 ### [4] Connect
 
-- [GitHub](https://github.com/AlbertBui010) / [LinkedIn](https://www.linkedin.com/in/quy-bui-quang-449a8427a/)
+- [GitHub](https://github.com/quybquang) / [LinkedIn](https://www.linkedin.com/in/quy-bui-quang-449a8427a/)
 
 ---
 
